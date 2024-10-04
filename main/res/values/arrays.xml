@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="xposedscope" >
+        <item>me.mapleaf.calendar</item>
+        <item>com.when.coco</item>>
+    </string-array>
+</resources>
